@@ -15,7 +15,7 @@ import {
 } from 'react-native';
 
 export default class App extends Component {
-  componentDidMount() {
+  componentWillMount() {
     RNAccountKit.configure({
       responseType: 'code', // 'token' by default,
       // titleType: 'login',
@@ -50,7 +50,7 @@ export default class App extends Component {
     return (
       <Fragment>
         <Text>
-          Login Suceessfull
+          Login Suceessfully
       </Text>
 
       </Fragment>
