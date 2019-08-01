@@ -13,7 +13,7 @@
     <item name="com_accountkit_button_background_color">#94612D</item>
     <item name="com_accountkit_button_border_color">#94612D</item>
     <item name="com_accountkit_button_disabled_background_color">#e2b382</item> -->
-    <item name="com_accountkit_background">@mipmap/bg</item>
+    <item name="com_accountkit_background">@mipmap/splash</item>
     <item name="com_accountkit_background_color">@android:color/transparent</item>
     <!-- <item name="com_accountkit_background_color">@android:color/transparent</item>
     <item name="com_accountkit_input_accent_color">?attr/com_accountkit_primary_color</item>
