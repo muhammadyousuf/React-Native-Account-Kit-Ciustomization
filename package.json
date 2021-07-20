@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.62.3",
     "react-native-facebook-account-kit": "^2.0.0"
   },
   "devDependencies": {
